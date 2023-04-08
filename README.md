@@ -10,8 +10,7 @@
                                                             
 <font color="pink">Sometimes it's better to sleep lots of </font> <br> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" align="right" width="75" height="75"> 
 <font color="pink">all day on Monday than spend the  </font> <br>
-<font color="pink">rest of the week debugging code  </font> <br>
-<font color="pink">written on Monday. </font> <br>
+
 
 
 ## Reach out to me
