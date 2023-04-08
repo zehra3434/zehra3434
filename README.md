@@ -5,7 +5,7 @@
                                
 ### Hi there, I'm Zehra Gözcü. :blush:  
                                                         
-### Web Developer | Mobile Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
+### Web Developer | Android Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
 
                                                             
 <font color="pink">Be not afraid of going slowly,</font> <br> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" align="right" width="75" height="75"> 
