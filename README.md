@@ -2,8 +2,8 @@
 
 
 
-
-### Hi there, I'm Zehra Gözcü. :blush:
+                               
+### Hi there, I'm Zehra Gözcü. :blush: <img src="https://media.giphy.com/media/YV3pnketRSh20PsLf1/giphy.gif" align="right" width="75" height="75"> 
                                                         
 ### Web Developer | Mobile Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
 
@@ -37,7 +37,7 @@
 
 
 ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=zehra3434-main&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api?username=Zehra3434&theme=dark" >
 
 
 <br />
@@ -45,7 +45,7 @@
 
 
 ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehra3434-main&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehra3434&layout=compact&theme=dark" >
 
 
 
