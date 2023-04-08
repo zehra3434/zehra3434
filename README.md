@@ -8,8 +8,8 @@
 ### Web Developer | Mobile Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
 
                                                             
-<font color="pink">Sometimes it's better to sleep lots of </font> <br> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" align="right" width="75" height="75"> 
-<font color="pink">all day on Monday than spend the  </font> <br>
+<font color="pink">Be not afraid of going slowly,</font> <br> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" align="right" width="75" height="75"> 
+<font color="pink">be afraid only of standing still.  </font> <br>
 
 
 
@@ -25,8 +25,8 @@
 ## Tech I use
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="25" height="25" />
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
