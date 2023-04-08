@@ -16,7 +16,7 @@
 ## Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][gmail]
+<a href="zehragozcu2000@gmail.com"> <img src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" width="22"> </a> 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
@@ -60,5 +60,4 @@
 
 
 [instagram]:https://www.instagram.com/zhrgozcu/
-[gmail]:zehragozcu2000@gmail.com
 [linkedin]:https://www.linkedin.com/in/zehragozcu/
