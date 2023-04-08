@@ -3,7 +3,7 @@
 
 
                                
-### Hi there, I'm Zehra Gözcü. :blush: <img src="https://media.giphy.com/media/YV3pnketRSh20PsLf1/giphy.gif" align="right" width="75" height="75"> 
+### Hi there, I'm Zehra Gözcü. :blush:  
                                                         
 ### Web Developer | Mobile Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
 
